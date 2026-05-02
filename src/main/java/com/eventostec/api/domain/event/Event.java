@@ -1,4 +1,4 @@
-package com.eventostec.api.event;
+package com.eventostec.api.domain.event;
 
 import java.util.Date;
 import java.util.UUID;

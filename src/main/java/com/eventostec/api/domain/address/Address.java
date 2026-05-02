@@ -2,7 +2,7 @@ package com.eventostec.api.domain.address;
 
 import java.util.UUID;
 
-import com.eventostec.api.event.Event;
+import com.eventostec.api.domain.event.Event;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
